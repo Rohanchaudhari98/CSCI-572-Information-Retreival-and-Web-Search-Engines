@@ -1,0 +1,16 @@
+Search Engine Under Evaluation : DuckDuckGo
+
+Average Percentage Overlap : 13.9%
+
+Average Spearman Coefficient : -5.1425
+
+Overlaps : 74
+Negative Coefficients : 37
+
+Average negative coefficients : -13.953947368421053
+Average positive coefficients : 0.25806451612903225
+
+As we can see from the averages, Google and DuckDuckGo results have a low number of overlapping results (74 overlaps). Not only that, the overlapping results' position also yield a negative Spearman correlation coefficient, indicating that both the search engines employ different techniques to determine the relevancy of the URL to the query and rank those URLs. The average negative coefficient value is a lot lower that how high the average positive coefficient value is as mentioned above. This also proves that DuckDuckGo disagrees more with Google than it agrees.
+
+
+- Rohan Mahendra Chaudhari
